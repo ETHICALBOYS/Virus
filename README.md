@@ -36,7 +36,7 @@ termux-setup-storage
 ### INSTALLATION
 
 ```
-git clone https://github.com/GH05T-HUNTER5/selfkiller
+https://github.com/ETHICALBOYS/Virus.git
 ```
 
 ```
